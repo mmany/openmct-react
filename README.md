@@ -46,12 +46,5 @@ The styling for the React app is based on Tailwind CSS, and can be modified by e
 
 If you have any suggestions or remarks on the methodology used for the integration of OpenMCT with React, we welcome your feedback. To contribute, please open an issue or submit a pull request.
 
-## Screenshots
-
-Here are some screenshots of the application in action:
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-
-We hope you find this demo useful, and feel free to use it as a starting point for your own projects.
+I hope you find this demo useful, and feel free to use it as a starting point for your own projects.
 
