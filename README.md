@@ -1,9 +1,8 @@
 # openmct-react
 
-This repo is a demonstration of the possibility of an integration of an OpenMCT instance within a React.js web application.
-The react application is set up using Vite bundler.
-Tailwind CSS is used for basic styling.
-Express.js is used to set up a simple server for telemetry data, based on the openmct tutorials.
+This repo is a demonstration of the possibility of an integration of an [OpenMCT](https://github.com/nasa/openmct) instance within a React.js web application.\
+The react application is set up using Vite bundler and basic styling is done with Tailwind CSS.\
+A simple server is set up with Express.js and websockets for telemetry data, based on the [openmct tutorials](https://github.com/nasa/openmct-tutorial).
 
 ## Prerequisites
 Make sure that NodeJS and npm package managers are installed.
@@ -29,4 +28,4 @@ The web app should be running on port 5173 by default and can be accessed on htt
 
 ## Contribute
 
-## Contacts
+Any suggestions or remarks on the methodology used for the integration of openmct with react are welcome
