@@ -19,5 +19,5 @@ app.use("/realtime", realtimeRouter);
 const PORT = process.env.PORT || 8080;
 
 app.listen(PORT, function () {
-  console.log("History hosted at http://localhost:" + PORT + "/history");
+  console.log("Server running at http://localhost:" + PORT");
 });
